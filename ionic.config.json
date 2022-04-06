@@ -1,0 +1,7 @@
+{
+  "name": "simpla-club-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
